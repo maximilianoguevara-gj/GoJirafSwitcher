@@ -8,13 +8,16 @@
     "purge": "node ./scripts/purge.js"
   },
   "devDependencies": {
-    "express":"^4.18.2",
     "@babel/core": "^7.19.4",
-    "@babel/parser": "^7.19.4",
     "@babel/generator": "^7.19.5",
+    "@babel/parser": "^7.19.4",
     "@babel/traverse": "^7.19.4",
-    "@babel/types": "^7.19.4"
+    "@babel/types": "^7.19.4",
+    "express": "^4.18.2"
   },
   "author": "qz",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
 }

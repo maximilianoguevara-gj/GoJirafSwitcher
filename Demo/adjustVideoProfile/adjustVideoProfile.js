@@ -16,39 +16,39 @@ var options = {
 // you can find all the agora preset video profiles here https://docs.agora.io/en/Voice/API%20Reference/web_ng/globals.html#videoencoderconfigurationpreset
 var videoProfiles = [{
   label: "360p_7",
-  detail: "480×360, 15fps, 320Kbps",
+  detail: "1080×1920, 15fps, 320Kbps",
   value: "360p_7"
 }, {
   label: "360p_8",
-  detail: "480×360, 30fps, 490Kbps",
+  detail: "1080×1920, 30fps, 490Kbps",
   value: "360p_8"
 }, {
   label: "480p_1",
-  detail: "640×480, 15fps, 500Kbps",
+  detail: "1080×1920, 15fps, 500Kbps",
   value: "480p_1"
 }, {
   label: "480p_2",
-  detail: "640×480, 30fps, 1000Kbps",
+  detail: "1080×1920, 30fps, 1000Kbps",
   value: "480p_2"
 }, {
   label: "720p_1",
-  detail: "1280×720, 15fps, 1130Kbps",
+  detail: "1080×1920, 15fps, 1130Kbps",
   value: "720p_1"
 }, {
   label: "720p_2",
-  detail: "1280×720, 30fps, 2000Kbps",
+  detail: "1080×1920, 30fps, 2000Kbps",
   value: "720p_2"
 }, {
   label: "1080p_1",
-  detail: "1920×1080, 15fps, 2080Kbps",
+  detail: "1080×1920, 15fps, 2080Kbps",
   value: "1080p_1"
 }, {
   label: "1080p_2",
-  detail: "1920×1080, 30fps, 3000Kbps",
+  detail: "1080×1920, 30fps, 3000Kbps",
   value: "1080p_2"
 }, {
   label: "200×640",
-  detail: "200×640, 30fps",
+  detail: "1080×1920, 30fps",
   value: {
     width: 200,
     height: 640,
