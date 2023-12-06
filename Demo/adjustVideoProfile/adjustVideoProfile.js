@@ -15,7 +15,7 @@ var options = {
 
 // you can find all the agora preset video profiles here https://docs.agora.io/en/Voice/API%20Reference/web_ng/globals.html#videoencoderconfigurationpreset
 var videoProfiles = [{
-  label: "200×640",
+  label: "2:3",
   detail: "1080×1920, 30fps",
   value: {
     width: 200,
